@@ -92,7 +92,7 @@ permalink: /
                     <article class="list-group-item">
                       <span class="glyphicon glyphicon-tags"></span>&nbsp;
                       <span class="categories">
-                        <a class="category" href="ç">news</a>
+                        <a class="category" href="/blog/news_category/">news</a>
                       </span>
                       &nbsp;&nbsp;&nbsp;
                       <a href="/news/2023/10/07/Submission-Process.html" itemprop="url">Submission Process</a>
