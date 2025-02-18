@@ -7,7 +7,7 @@
 
 # Site settings
 title: GZNL - RNA puzzles
-email: rnapuzzles@gzlab.ac.cn
+#email: rnapuzzles@gzlab.ac.cn
 description: > # this means to ignore newlines until "baseurl:"
   The lab website of Zhichao Miao lab.
 baseurl: ""
